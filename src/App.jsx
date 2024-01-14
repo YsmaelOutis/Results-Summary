@@ -4,7 +4,6 @@ import data from "./data/data.json";
 
 
 function App() {
-
   function getScoreByCategory(data, category) {
     for (let item of data) {
         if (item.category === category) {
