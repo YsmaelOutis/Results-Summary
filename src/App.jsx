@@ -1,5 +1,5 @@
 import "./App.css";
-import AreaRating from "./components/areaRating";
+import AreaRating from "./components/AreaRating.jsx";
 import data from "./data/data.json";
 
 
